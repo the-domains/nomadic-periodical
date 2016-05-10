@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Nomadic Periodical]]></title>
-        <description><![CDATA[Nomadic Periodical]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[presented by the HAVAIII Co.]]></title>
+        <description><![CDATA[presented by the HAVAIII Co.]]></description>
+        <link>https://thegrid.ai/nomadic-periodical/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 04:18:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 04:44:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nomadic-periodical/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It's ok to let your mind wander]]></title>
+            <description><![CDATA[<article><h1>It's ok to let your mind wander</h1><p>It's a great question and your experience is very common. The reason you experience that state is because you are letting go, you are no longer thinking about focusing, or expending any additional effort in trying to focus, so the mind immediately finds itself in this very restful place.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/832346f14b641d336b6cee67c361694c285cc8ac.png"></article>]]></description>
+            <link>https://www.headspace.com/blog/2014/12/02/its-ok-to-let-your-mind-wander/?cardid=463&amp;utm_source=view&amp;utm_medium=social&amp;utm_campaign=view-ios</link>
+            <guid isPermaLink="false">2b66ecfb-7c9a-48f1-8977-22d8206e6444</guid>
+            <pubDate>Tue, 10 May 2016 04:44:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53ac0e39-3b16-48aa-943b-3af6ae27e29c.jpg">]]></description>
-            <link>undefinedlifestyle-hacks-as-a-digital-nomad/index.html</link>
+            <link>https://thegrid.ai/nomadic-periodical/lifestyle-hacks-as-a-digital-nomad/index.html</link>
             <guid isPermaLink="false">661e4070-3654-4bf0-af61-0eb72483e675</guid>
             <pubDate>Tue, 10 May 2016 04:18:40 GMT</pubDate>
         </item>
