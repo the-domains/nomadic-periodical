@@ -1,17 +1,8 @@
 ---
-author:
-  - name: Headspace
-    url: 'https://www.headspace.com/blog/author/headspace/'
-    avatar: {}
-  - name: Andy Puddicombe
-    url: 'https://www.headspace.com/blog/author/andy-puddicombe/'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.headspace.com'
-  name: The Orange Dot
-  favicon: 'https://www.headspace.com/blog/wp-content/themes/headspace-1.6.0/favicon.png'
-  domain: www.headspace.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
 keywords:
   - longer
   - headspace
@@ -24,17 +15,27 @@ keywords:
   - short
   - expending
 description: "It's a great question and your experience is very common. The reason you experience that state is because you are letting go, you are no longer thinking about focusing, or expending any additional effort in trying to focus, so the mind immediately finds itself in this very restful place."
-inLanguage: en
+datePublished: '2016-05-10T04:52:48.318Z'
+dateModified: '2016-05-10T04:52:25.262Z'
+author:
+  - name: Headspace
+    url: 'https://www.headspace.com/blog/author/headspace/'
+    avatar: {}
+  - name: Andy Puddicombe
+    url: 'https://www.headspace.com/blog/author/andy-puddicombe/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.headspace.com/blog/2014/12/02/its-ok-to-let-your-mind-wander/?cardid=463&utm_source=view&utm_medium=social&utm_campaign=view-ios'
 title: "It's ok to let your mind wander"
-datePublished: '2016-05-10T04:44:13.484Z'
-dateModified: '2016-05-10T04:43:12.806Z'
-starred: false
 sourcePath: _posts/2016-05-10-its-ok-to-let-your-mind-wander.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: The Orange Dot
+  domain: www.headspace.com
+  url: 'https://www.headspace.com'
+  favicon: 'https://www.headspace.com/blog/wp-content/themes/headspace-1.6.0/favicon.png'
+starred: false
+url: its-ok-to-let-your-mind-wander/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
