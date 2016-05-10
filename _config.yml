@@ -1,7 +1,7 @@
 name: Nomadic Periodical
 favicon: null
-layout_spectrum: 0.6752921328879893
-typography_spectrum: 0.3609343799762428
+layout_spectrum: 0.01074
+typography_spectrum: 0.7506
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#c5292f'
+    - '#bf202b'
+    - '#000000'
+    - '#ff0000'
+    - '#c4282f'
   brandStrength: 0.7788686896674335
   lightness: 0.843590120319277
-  saturation: 0.0005031970795243979
+  saturation: 0.5
   rhythmicContrast: 0.035802795784547925
 purpose: []
