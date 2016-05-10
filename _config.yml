@@ -1,0 +1,28 @@
+name: Nomadic Periodical
+favicon: null
+layout_spectrum: 0.6752921328879893
+typography_spectrum: 0.3609343799762428
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7788686896674335
+  lightness: 0.843590120319277
+  saturation: 0.0005031970795243979
+  rhythmicContrast: 0.035802795784547925
+purpose: []
